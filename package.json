@@ -107,5 +107,8 @@
     "electron": "^13.6.9",
     "electron-builder": "^23.0.3",
     "prettier": "^2.6.2"
+  },
+  "dependencies": {
+    "electron-store": "^9.0.0"
   }
 }
